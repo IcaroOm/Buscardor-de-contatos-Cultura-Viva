@@ -91,4 +91,4 @@ nome_entidade_coletivo_cultural,email_publico,telefone_publico
 
 ## Contato
 
-Em caso de dúvidas ou problemas, entre em contato comigo pelo Element.
+Em caso de dúvidas ou problemas, entre em contato com o mantedor do repositorio.
