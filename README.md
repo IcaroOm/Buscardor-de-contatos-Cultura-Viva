@@ -1,6 +1,4 @@
-# README
-
-## Descrição
+# Descrição
 
 Este script foi desenvolvido para buscar informações de contato (emails e telefones) de entidades culturais a partir de uma planilha CSV. O processo é realizado através de uma busca no Google, seguida da análise das páginas encontradas, extraindo as informações de contato diretamente do texto da página.
 
