@@ -26,7 +26,7 @@ O script é projetado para lidar com a limitação de requisições (Rate Limit)
 Você pode instalar as dependências utilizando o `pip`:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Como usar
